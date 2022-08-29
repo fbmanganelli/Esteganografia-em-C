@@ -4,7 +4,7 @@ Funciona apenas para imagens .bmp
 
 Compilar o programa:
 
-		gcc esteganografia.c controle.c encriptar.c desencriptar.c -o esteganografia
+	gcc esteganografia.c controle.c encriptar.c desencriptar.c -o esteganografia
 
 Executar o programa:
 
