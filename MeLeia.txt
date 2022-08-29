@@ -1,5 +1,5 @@
 Programa para disciplina de AED2 do professor Ronaldo Costa
-Feito pelo discente Filipe Brito Manganelli - 202103723
+Feito pelo discente Filipe Brito Manganelli
 Funciona apenas para imagens .bmp
 
 #Compilar o programa
