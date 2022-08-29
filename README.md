@@ -1,12 +1,14 @@
-Programa para disciplina de AED2 do professor Ronaldo Costa
+Programa para disciplina de AED2 do professor Ronaldo Costa.
+
 Feito pelo discente Filipe Brito Manganelli
+
 Funciona apenas para imagens .bmp
 
-Compilar o programa:
+#Compilar o programa:
 
 	gcc esteganografia.c controle.c encriptar.c desencriptar.c -o esteganografia
 
-Executar o programa:
+#Executar o programa:
 
   	./esteganografia
 
